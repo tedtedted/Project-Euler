@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class EulerUtils {
+public class EulerUtils {
+
+    public static boolean isPrime() {
+        return false;
+    }
 }
